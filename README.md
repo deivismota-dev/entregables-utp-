@@ -1,2 +1,2 @@
 # entregables-utp-
-artculos para pregunta de investigación
+artcílos para pregunta de investigación
